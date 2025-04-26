@@ -62,7 +62,7 @@ No, the plugin is lightweight and optimized for performance. It only loads the n
 
 ## Credits
 
-- WhatsApp icon from [WhatsApp Brand Resources](https://www.whatsapp.com/brand-resources/)
+- WhatsApp icon from [WhatsApp](https://www.whatsapp.com)
 
 ## License
 
